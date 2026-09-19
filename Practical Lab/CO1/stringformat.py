@@ -1,0 +1,6 @@
+txt1="my name is {name}, im {age}".format(name="anu",age="20")
+print(txt1)
+txt2="my name is {0}, im {1}".format("anu",20)
+print(txt2)
+txt3="my name is {}, im {}".format("anu",20)
+print(txt3)

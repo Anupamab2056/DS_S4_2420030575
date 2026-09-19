@@ -1,0 +1,7 @@
+a=input("enter the value ")
+b=int(a)
+print(b)
+x=int(2.7)
+y=float(2)
+z=str(2)
+print(x,y,z)
